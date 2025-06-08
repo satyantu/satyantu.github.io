@@ -1,9 +1,9 @@
 ---
 # Display name
-title: सत्य ब्रत तिवारी
+title: Satya Brat Tiwari
 
 # Name pronunciation (optional)
-name_pronunciation: Satya Brat Tiwari
+#name_pronunciation: Satya Brat Tiwari
 
 # Full name (for SEO)
 first_name: Satya Brat
