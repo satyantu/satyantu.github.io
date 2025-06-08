@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Interdisciplinary Graduate Programme
     institution: Nanyang Technological University Singapore
-    date_start: 2020-08-11
-    date_end: 2024-10-24
+    date_start: '2020-08-11'
+    date_end: '2024-10-24'
     summary: |
       - Thesis: Phosphorus recovery from sewage sludge through integrated thermochemical treatment and sequential wet extraction.
       - Independently designed, planned, and executed pyrolysis and hydrothermal carbonization experiments; processed samples; conducted a detailed analysis of phosphorus in environmental samples. Achieved 50 % higher phosphorus extraction efficiency compared to control scenario, without simultaneous extraction of toxic heavy metals via a novel process.
@@ -66,8 +66,8 @@ education:
       url: 'https://dr.ntu.edu.sg/entities/publication/6c08f764-6f35-47eb-8128-0ef68bea76d9'
   - area: MTech Civil Engineering (Environmental)
     institution: Indian Institute of Technology Roorkee
-    date_start: 2018-07-07
-    date_end: 2020-06-25
+    date_start: '2018-07-07'
+    date_end: '2020-06-25'
     summary: |
       GPA: 9.6/10.0
 
@@ -77,8 +77,8 @@ education:
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BTech Civil Engineering
     institution: Indian Institute of Technology Roorkee
-    date_start: 2009-07-20
-    date_end: 2013-05-17
+    date_start: '2009-07-20'
+    date_end: '2013-05-17'
     summary: |
       GPA: 8.7/10.0
       
@@ -91,7 +91,7 @@ work:
     company_name: National Institute of Standards and Technology (NIST)
     company_url: 'https://www.nist.gov/mml'
  #   company_logo: ''
-    date_start: 2025-04-01
+    date_start: '2025-04-01'
     date_end: ''
     summary: |2-
       Responsibilities:
@@ -102,8 +102,8 @@ work:
     company_name: Nanyang Technological University Singapore
     company_url: 'https://www.ntu.edu.sg/newri'
  #   company_logo: ''
-    date_start: 2024-11-22
-    date_end: 2025-02-22
+    date_start: '2024-11-22'
+    date_end: '2025-02-22'
     summary: |
       Responsibilities:
       - Gaining foundational exposure to lifecycle assessment methodologies.
@@ -113,8 +113,8 @@ work:
     company_name: Indian Institute of Technology Kanpur
     company_url: 'https://www.iitk.ac.in/'
  #   company_logo: ''
-    date_start: 2017-12-31
-    date_end: 2018-06-25
+    date_start: '2017-12-31'
+    date_end: '2018-06-25'
     summary: |
       Responsibilities:
       - Collected, processed, and interpreted data on air quality parameters (PM2.5 and PM10) while camping at a monitoring station in Delhi for three months of winter. Calibrated and operated instruments such as high-volume sampler and optical particle sizer (OPS).
@@ -167,48 +167,48 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: PREP (Professional Research Experience Program) Postdoctoral Fellowship
+  - title: PREP (Professional Research Experience Program) Postdoctoral Fellowship 2025
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2025'
+#    date: '2025'
     awarder: NIST
   #  icon: coursera
     summary: |
       Joint appointment with the Johns Hopkins University to investigate the analytical techniquies for quantifying ciritical elements in black mass.
-  - title: Imperial-TUM-NTU Global Fellowship
+  - title: Imperial-TUM-NTU Global Fellowship 2022
   #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2022'
+#    date: '2022'
     awarder: Nanyang Technological University Singapore
   #  icon: edx
     summary: |
       One of 15 fellows selected by NTU Singapore to participate in a 5-day transferable skills course in TUM, Germany, to promote international collaborations and networking skills. Obtained key insights on soft skills and teamwork.
-  - title: 'Tara Chand Kanti Devi Cash Prize'
+  - title: Tara Chand Kanti Devi Cash Prize 2020
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #    certificate_url: https://www.datacamp.com
-    date: '2020'
+#    date: '2020'
     awarder: Indian Institute of Technology Roorkee
 #    icon: datacamp
     summary: |
       For being best student of M.Tech. Civil Engineering.
-  - title: 'Kathpalia Award for Environment'
+  - title: Kathpalia Award for Environment 2020
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #    certificate_url: https://www.datacamp.com
-    date: '2020'
+#    date: '2020'
     awarder: Indian Institute of Technology Roorkee
 #    icon: datacamp
     summary: |
       For best dissertation in M.Tech. Civil Engineering with specialization in Environmental Engineering.
-  - title: 'Prof C.L. Toshniwal Environmental Engineering Award'
+  - title: Prof C.L. Toshniwal Environmental Engineering Award 2020
   #  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   #  certificate_url: https://www.datacamp.com
-    date: '2020'
+  #  date: '2020'
     awarder: Indian Institute of Technology Roorkee
   #  icon: datacamp
     summary: |
       For highest CGPA in M.Tech. Civil Engineering with specialization in Environmental Engineering.
-  - title: 'Rural India Technology Based Upliftment (RITU) Award'
+  - title: Rural India Technology Based Upliftment (RITU) Award 2020
   #  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   #  certificate_url: https://www.datacamp.com
-    date: '2020'
+  #  date: '2020'
     awarder: Indian Institute of Technology Roorkee
   #  icon: datacamp
     summary: |
