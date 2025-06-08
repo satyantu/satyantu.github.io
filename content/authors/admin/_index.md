@@ -59,7 +59,7 @@ education:
     date_start: 2020-08-11
     date_end: 2024-10-24
     summary: |
-      - Thesis: Phosphorus recovery from sewage sludge through integrated thermochemical treatment and sequential wet extraction. Supervised by [Prof Teik Thye Lim](https://dr.ntu.edu.sg/entities/person/Lim-Teik-Thye). 
+      - Thesis: Phosphorus recovery from sewage sludge through integrated thermochemical treatment and sequential wet extraction.
       - Independently designed, planned, and executed pyrolysis and hydrothermal carbonization experiments; processed samples; conducted a detailed analysis of phosphorus in environmental samples. Achieved 50 % higher phosphorus extraction efficiency compared to control scenario, without simultaneous extraction of toxic heavy metals via a novel process.
     button:
       text: 'Read Thesis'
