@@ -20,13 +20,13 @@ main:
     weight: 11
   - name: Awards
     parent: about
-    url: about/resume-awards/
+    url: about/awards/
     weight: 12      
 #  - name: News
 #    url: /#news
 #    weight: 13
   - name: Publications
-    url: publications/
+    url: publication/
     weight: 30
   - name: Teaching
     url: teaching/
