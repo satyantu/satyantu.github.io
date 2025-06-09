@@ -10,7 +10,7 @@ first_name: Satya Brat
 last_name: Tiwari
 
 # Status emoji
-status:
+#status:
 #  icon: ☕️
 
 # Is this the primary user of the site?
@@ -26,7 +26,8 @@ role: PREP Postdoctoral Fellow
 organizations:
   - name: National Institute of Standards and Technology (NIST)
     url: https://www.nist.gov/mml
-
+  - name: Johns Hopkins University
+    url: https://engineering.jhu.edu/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -90,6 +91,8 @@ work:
   - position: PREP Postdoctoral Fellow
     company_name: National Institute of Standards and Technology (NIST)
     company_url: 'https://www.nist.gov/mml'
+    company_name: Johns Hopkins University
+    company_url: https://engineering.jhu.edu/  
  #   company_logo: ''
     date_start: '2025-04-01'
     date_end: ''
@@ -122,20 +125,20 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: ICPOES
-        description: ''
-        percent: 80
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: ICPOES
+#        description: ''
+#        percent: 80
   #      icon: code-bracket
-      - name: Solid and liquid NMR
-        description: ''
-        percent: 40
+#      - name: Solid and liquid NMR
+#        description: ''
+#        percent: 40
   #      icon: chart-bar
-      - name: Statistical Analysis
-        description: ''
-        percent: 40
+#      - name: Statistical Analysis
+#        description: ''
+ #       percent: 40
   #      icon: circle-stack
 #  - name: Hobbies
 #    color: '#eeac02'
